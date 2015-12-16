@@ -41,6 +41,7 @@
 * See the [IPython website](https://ipython.org) for details of IPython licencing.
 * See the [UK Land Registry website](https://www.gov.uk/government/statistical-data-sets/price-paid-data-downloads#when-using-or-publishing-our-price-paid-data) for details of the licence covering the  sample CSV data used here. 
 * The following licence applies *only* to the notebook code in this sample application:
+
 ---
 The MIT License (MIT)
 
